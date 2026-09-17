@@ -1,0 +1,22 @@
+User-agent: *
+Allow: /
+
+# AI answer engines — allowed, so the profile can be cited in answers
+User-agent: GPTBot
+Allow: /
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+User-agent: Applebot-Extended
+Allow: /
+User-agent: Bingbot
+Allow: /
+User-agent: DuckDuckBot
+Allow: /
+
+Sitemap: https://jashinsennin.github.io/Josh-Cinense-Portfolio/sitemap.xml
