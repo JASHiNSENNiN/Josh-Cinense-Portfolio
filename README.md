@@ -1,137 +1,111 @@
-<<<<<<< HEAD
-# Josh V. Cinense — Portfolio in a Nutshell
-
-> Cybersecurity Specialist & Full Stack Developer
-> Guimba, Central Luzon, Philippines
-
----
-
-## 👨‍💻 About Me
-Hi, I'm **Josh V. Cinense** — passionate about cybersecurity, web exploitation, and building secure, scalable applications. I love ricing Linux, competing in CTFs, and always learning new things.
-
-- **3+ years experience** in cybersecurity & software development
-- **10+ projects** completed
-- **15+ technologies** mastered
-
----
-
-## 🛠️ Skills & Technologies
-- **Cybersecurity:** Web Exploitation, Cryptography, Reverse Engineering, Network Security, Incident Response, Ethical Hacking, CTFs
-- **Development:** Python, C#, Java, Back-End Web, OOP, Database Admin, Linux, Windows Server, Azure
-- **Professional:** Project Management, Team Leadership, Communication, Video Editing, Graphic Design
-
----
-
-## 🚩 Featured Projects
-- **Cybersecurity Homelab:** Virtualized lab for pen-testing, malware analysis, and threat intelligence (Proxmox, Docker, OPNsense)
-- **Self-Hosted Infrastructure:** Home server for web/media hosting, secure remote access (Linux, Cloudflare, Docker)
-- **CTF & Security Research:** Active CTF participant, ranked in HACKFORGOV events
-- **Custom Arch Linux Distro:** Riced OS for red/blue/purple team operations (Hyprland, KDE)
-
----
-
-## 💼 Experience
-- **CyberSecurity OJT** — NEECO II Area I – CITET Dept.
-  - Vulnerability assessments, pen-testing, lab simulation, reporting
-- **Full Stack Web Developer & SysAdmin** — Romel Garcia Digital Video & Photography
-  - Website & backend dev, server admin, database architecture
-- **Lead Developer** — Work Immersion Website, Dr. Ramon De Santos NHS
-  - Project lead, backend, UI/UX, deployment
-
----
-
-## 🏅 Certifications (Selection)
-- MetaCTF Flash CTF (Top 17%) — MetaCTF
-- SOC Member — LetsDefend
-- Security Concepts in Azure — STYAVA.DEV
-- HACKFORGOV 2024 Region 3 CTF (10th Place) — DICT PH
-- Python Programming Essentials — DICT PH
-- Cyber Threat Management, Network Defense — Cisco
-
----
-
-## 🎓 Education
-- **Our Lady of the Sacred Heart College of Guimba Inc.**
-  - BS Information Technology, Cum Laude
-  - JPCS – OLSHCO Chapter: Special Projects Director
-
----
-
-## 📄 [Download My Resume (PDF)](src/CinenseJoshResumeV3.pdf)
-
----
-
-## 📬 Contact & Socials
-- **Email:** jacercinense@gmail.com
-- **LinkedIn:** [cinense-josh-vengco](https://www.linkedin.com/in/cinense-josh-vengco/)
-- **GitHub:** [JASHiNSENNiN](https://github.com/JASHiNSENNiN)
-- **Discord:** _j4shin
-- **Phone:** +63 926 900 3279
-=======
 # Josh V. Cinense
 
-> Cybersecurity Specialist & Full Stack Developer
-> Guimba, Central Luzon, Philippines
->>>>>>> 4024a22911f1a2c47e65e76b907253e7d59edbff
+**Security practitioner · Technical Support Specialist**
+Central Luzon, Philippines
+
+### → [jashinsennin.github.io/Josh-Cinense-Portfolio](https://jashinsennin.github.io/Josh-Cinense-Portfolio/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-3ddc84?style=flat-square)](https://jashinsennin.github.io/Josh-Cinense-Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square)](https://www.linkedin.com/in/cinense-josh-vengco/)
+[![Résumé](https://img.shields.io/badge/R%C3%A9sum%C3%A9-PDF-888?style=flat-square)](https://jashinsennin.github.io/Josh-Cinense-Portfolio/src/CinenseJoshResumeV3.pdf)
 
 ---
 
-## 👨‍💻 About Me
-Hi, I'm **Josh V. Cinense** — passionate about cybersecurity, web exploitation, and building secure, scalable applications. I love ricing Linux, competing in CTFs, and always learning new things.
+## About
 
-- **3+ years experience** in cybersecurity & software development
-- **10+ projects** completed
-- **15+ technologies** mastered
+Technical Support Specialist at MotivIT, working in a multi-tenant managed services
+environment. Directory and tenant administration, security, networks, endpoints, servers,
+and the software that runs on top of all of it.
 
----
+Outside work I self-host, build firmware, web applications and games, and captain a CTF team.
 
-## 🛠️ Skills & Technologies
-- **Cybersecurity:** Web Exploitation, Cryptography, Reverse Engineering, Network Security, Incident Response, Ethical Hacking, CTFs
-- **Development:** Python, C#, Java, Back-End Web, OOP, Database Admin, Linux, Windows Server, Azure
-- **Professional:** Project Management, Team Leadership, Communication, Video Editing, Graphic Design
+**The full record lives on the site:**
+**[jashinsennin.github.io/Josh-Cinense-Portfolio](https://jashinsennin.github.io/Josh-Cinense-Portfolio/)**
 
 ---
 
-## 🚩 Featured Projects
-- **Cybersecurity Homelab:** Virtualized lab for pen-testing, malware analysis, and threat intelligence (Proxmox, Docker, OPNsense)
-- **Self-Hosted Infrastructure:** Home server for web/media hosting, secure remote access (Linux, Cloudflare, Docker)
-- **CTF & Security Research:** Active CTF participant, ranked in HACKFORGOV events
-- **Custom Arch Linux Distro:** Riced OS for red/blue/purple team operations (Hyprland, KDE)
+## What I work on
+
+Eleven areas, security first.
+
+| Area | |
+|---|---|
+| Identity forensics and hybrid sync | Lockout and authentication tracing, event-log sub-status codes and logon types, directory sync and attribute-flow failures |
+| Email threat investigation | Header tracing, SPF / DKIM / DMARC, quarantine and filter policy tuning, spoof testing |
+| Compromised account response | Sign-in and unified audit review, log triage, session and credential revocation |
+| Log analysis and root cause | Correlating event, sign-in and audit data down to a single documented cause |
+| Active Directory and Group Policy | Account lifecycle, ADUC and ADSI, GPO authoring, printer and drive mapping deployment |
+| Microsoft 365 tenant administration | Exchange Online, SharePoint, OneDrive, Teams, licensing, retention and compliance |
+| Scripting and automation | PowerShell and Microsoft Graph, batch, scheduled tasks, RMM deployment, runbooks |
+| Endpoint and device | Provisioning, rebuilds, enrolment and policy, remote remediation, alert response |
+| Application support | Line-of-business and third-party software: installs, licensing, integration faults |
+| Printers, peripherals and hardware | Driver and queue faults, deployment, procurement, repair dispatch |
+| Network, server and recovery | Firewall policy, IPsec, NAT and VIP, DNS and routing, post-outage recovery |
+
+[Full detail →](https://jashinsennin.github.io/Josh-Cinense-Portfolio/#desk)
 
 ---
 
-## 💼 Experience
-- **CyberSecurity OJT** — NEECO II Area I – CITET Dept.
-  - Vulnerability assessments, pen-testing, lab simulation, reporting
-- **Full Stack Web Developer & SysAdmin** — Romel Garcia Digital Video & Photography
-  - Website & backend dev, server admin, database architecture
-- **Lead Developer** — Work Immersion Website, Dr. Ramon De Santos NHS
-  - Project lead, backend, UI/UX, deployment
+## Selected work
+
+| Project | |
+|---|---|
+| **Cy83r_Cru54d3r5** | CTF team — founder and captain. Web exploitation, cryptography, reverse engineering, forensics |
+| **Cybersecurity Homelab** | Proxmox, Docker, Portainer, OPNsense segmentation. Pen-testing simulation, malware analysis, threat intel |
+| **Custom Arch Security Distro** | Arch-based build tuned for offensive, defensive and threat-hunting workflows |
+| **Vape Detection IoT System** | ESP32 multi-sensor detector. Heuristic scoring across particulate, VOC, CO and climate to separate vaping from cigarettes and cooking smoke. Firestore backend |
+| **Rommel Garcia Appointment System** | Production PHP / MySQL booking platform. Admin dashboard, FullCalendar, bcrypt auth, PDO prepared statements |
+| **Work Immersion Website** | Led delivery end to end — architecture, backend, database, UI/UX, hosting, deployment |
+| **Missing Presence** | Commissioned Godot 4 visual novel shipped for Windows. Branching narrative, save system, in-game minigames |
+
+[All projects →](https://jashinsennin.github.io/Josh-Cinense-Portfolio/#work)
 
 ---
 
-## 🏅 Certifications (Selection)
-- MetaCTF Flash CTF (Top 17%) — MetaCTF
+## Record
+
+**Competition** — individual placements
+- MetaCTF Flash CTF — top 17%, 163rd of 1000 (Jan 2025)
+- HACKFORGOV Region 3 — 10th place (Jun 2024)
+- HACKFORGOV Region 3 — 6th place (Sep 2023)
+
+**Certification**
 - SOC Member — LetsDefend
-- Security Concepts in Azure — STYAVA.DEV
-- HACKFORGOV 2024 Region 3 CTF (10th Place) — DICT PH
-- Python Programming Essentials — DICT PH
-- Cyber Threat Management, Network Defense — Cisco
+- [Operating Systems Basics](https://www.credly.com/badges/76a40b3c-e6a1-431d-9933-56809e82e6db/public_url) — Cisco
+- [Network Defense](https://www.credly.com/badges/3b1cd866-f152-4d2c-b74b-e006c5a8441e/public_url) — Cisco
+- [Cyber Threat Management](https://www.credly.com/badges/68ecbac7-869f-4214-95cf-6eb22bc60975/public_url) — Cisco
+- [Python Essentials 1](https://www.credly.com/badges/473c1eee-04c3-47d2-adea-8beb9799e674/public_url) — Cisco
+
+**Education**
+BS Information Technology, *Cum Laude* — Our Lady of the Sacred Heart College of Guimba
+Founder and Director, Special Projects — JPCS OLSHCO Chapter
+
+[Full record →](https://jashinsennin.github.io/Josh-Cinense-Portfolio/#record)
 
 ---
 
-## 🎓 Education
-- **Our Lady of the Sacred Heart College of Guimba Inc.**
-  - BS Information Technology, Cum Laude
-  - JPCS – OLSHCO Chapter: Special Projects Director
+## Contact
+
+- **Site** — [jashinsennin.github.io/Josh-Cinense-Portfolio](https://jashinsennin.github.io/Josh-Cinense-Portfolio/)
+- **Email** — jacercinense@gmail.com
+- **LinkedIn** — [cinense-josh-vengco](https://www.linkedin.com/in/cinense-josh-vengco/)
+- **GitHub** — [JASHiNSENNiN](https://github.com/JASHiNSENNiN)
 
 ---
 
-## 📬 Contact & Socials
-- **Email:** jacercinense@gmail.com
-- **LinkedIn:** [cinense-josh-vengco](https://www.linkedin.com/in/cinense-josh-vengco/)
-- **GitHub:** [JASHiNSENNiN](https://github.com/JASHiNSENNiN)
-  
----
+## About this repository
 
-> Built with 💻 and a hacker's spirit by Josh V. Cinense 
+Source for the portfolio site. Static — no build step, no framework, no package manager.
+
+```
+index.html    section shells + metadata + JSON-LD
+script.js     content data, render, console, project filter
+styles.css    @layer tokens, base, layout, components, effects, motion, fx
+fx.js         GSAP, vanilla-tilt, Typed.js, tsParticles, Rough Notation
+```
+
+Run locally with any static server:
+
+```bash
+python3 -m http.server 8080
+```
